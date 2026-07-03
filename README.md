@@ -1,5 +1,7 @@
 # statuspop
 
+![App screenshot](screenshot/screenshot.png)
+
 A minimal on-demand system status popup for GNU/Linux. Press a key binding in
 your window manager and a small floating window appears with your core stats.
 Press **Enter** to reveal more detail. Press **Esc** or click anywhere to close.
